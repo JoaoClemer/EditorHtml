@@ -1,0 +1,16 @@
+E:\Programação\DOTNET Balta\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+E:\Programação\DOTNET Balta\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+E:\Programação\DOTNET Balta\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+E:\Programação\DOTNET Balta\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+E:\Programação\DOTNET Balta\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+E:\Programação\DOTNET Balta\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+E:\Programação\DOTNET Balta\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.AssemblyReference.cache
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+E:\Programação\DOTNET Balta\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
